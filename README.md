@@ -96,7 +96,28 @@ Key findings will be summarized here after dashboard completion — focusing on 
 
 ## Repository Structure  
 
+``` plaintext
 
+superstore-kpi-dashboard/
+│
+├── data/
+│ ├── raw/ # Untouched Kaggle dataset
+│ └── cleaned/ # Cleaned and transformed data
+│
+├── sql/ # SQL scripts
+│ ├── clean_superstore.sql
+│ └── summary_kpis.sql
+│
+├── powerbi/ # Power BI files and visuals
+│ ├── superstore_dashboard.pbix
+│ └── visuals/
+│
+├── docs/ # Additional documentation
+│ ├── Project_Report.pdf
+│ └── README_DATA.md
+│
+└── README.md # Main project overview
+```
 ---
 
 ## Contact  
