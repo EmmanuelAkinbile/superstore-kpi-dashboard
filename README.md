@@ -39,6 +39,63 @@ They need an analytics solution that can answer:
 - `Customer ID`, `Segment`, `State`, `City`  
 
 **Data Location:**  
+data/raw/superstore_sales_raw.csv
+
+---
+
+## Process  
+
+### 1. Data Cleaning & Preparation  
+- Imported raw data into SQL Server  
+- Cleaned and standardized date, category, and region fields  
+- Removed nulls and invalid values  
+- Created calculated fields such as:  
+  - `Profit_Margin = Profit / Sales`  
+  - `Sales_After_Discount = Sales * (1 - Discount)`  
+- Validated totals and ensured data consistency  
+
+### 2. KPI Development  
+Defined key metrics for business monitoring:  
+| KPI | Formula | Description |
+|------|----------|-------------|
+| **Total Sales** | `SUM(Sales)` | Total revenue generated |
+| **Total Profit** | `SUM(Profit)` | Overall profitability |
+| **Profit Margin %** | `Profit / Sales` | Profit efficiency |
+| **Monthly Growth Rate** | `(Current – Previous) / Previous` | Trend strength |
+| **Customer Retention Rate** | `Returning Customers / Total Customers` | Loyalty indicator |
+
+### 3. Data Modeling & Visualization  
+- Connected SQL Server to Power BI  
+- Built data relationships and measures using DAX  
+- Designed interactive visuals (cards, trend lines, category breakdowns, region maps)  
+- Created a unified dashboard summarizing KPIs and trends  
+
+---
+
+## Dashboard Preview *(to be added)*  
+
+
+---
+
+## Insights (to be added)  
+
+Key findings will be summarized here after dashboard completion — focusing on trends, outliers, and strategic recommendations.
+
+---
+
+## Tools & Technologies  
+
+| Tool | Purpose |
+|------|----------|
+| **SQL Server** | Data cleaning, transformation, and KPI calculations |
+| **Power BI** | Dashboard visualization and DAX metrics |
+| **Excel** | Exploratory analysis and validation |
+| **GitHub** | Version control and project documentation |
+
+---
+
+## Repository Structure  
+
 
 ---
 
