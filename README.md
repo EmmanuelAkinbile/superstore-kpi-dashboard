@@ -1,4 +1,4 @@
-# Superstore KPI Dashboard  
+aww# Superstore KPI Dashboard  
 **Data Analytics | SQL | Power BI | Data Visualization**
 
 ---
@@ -80,8 +80,49 @@ Defined key metrics for business monitoring:
 
 ---
 
-## Insights (to be added)  
+## Insights
 
+### Executive Summary
+- Revenue increased steadily from 2014 to 2017, indicating strong year-over-year performance.
+- The Consumer segment contributed approximately half of all revenue, making it the dominant customer segment.
+- Technology was the top-performing category in total revenue, while Office Supplies showed consistent but lower-volume performance.
+- The leading product, Canon ImageCLASS 2200, generated approximately $62K in total revenue.
+- Profit margins were generally healthy, although month-to-month variation was present.
+
+### Category and Product Performance
+- Technology produced the highest revenue, followed by Furniture and Office Supplies.
+- High-performing subcategories included Phones, Chairs, and Storage.
+- Several subcategories, such as Tables and Bookcases, generated negative profit, suggesting issues with pricing or discounting.
+- Profit margin analysis identified clear high-performing subcategories along with low-margin outliers.
+- The Top 10 Products visual highlighted a mix of strong revenue generators and products with weak profitability.
+
+### Revenue Breakdown Explorer
+- The most impactful revenue path was Consumer > Technology > Phones.
+- The decomposition tree revealed clear clusters of high-value product combinations.
+- Lower-value and low-margin combinations were easily identifiable for further review.
+- The breakdown confirmed that a small number of product paths account for a significant share of overall revenue.
+
+### Customer Insights
+- The dataset included 793 unique customers.
+- Average revenue per customer was approximately $230, while average profit per customer was approximately $29.
+- Customers placed an average of 12.6 orders, indicating repeat purchasing behavior.
+- The West region led in both total revenue and total profit, while the South region trailed.
+- Revenue by state showed strong geographic concentration in California, New York, and Texas.
+- The Consumer segment represented the majority of both sales volume and profitability.
+
+### Price, Discount, and Unit Analysis
+- The average discount across all orders was 15.63 percent.
+- High-discount subcategories frequently produced negative profit, especially Tables and Bookcases.
+- High-priced categories, such as Technology, delivered strong profit despite lower unit volume.
+- The bubble chart highlighted negative-profit outliers driven largely by elevated discount rates.
+- Approximately 38,000 total units were sold, with Office Supplies leading in unit volume.
+
+### Order and Shipping Insights
+- The median lead time was 4 days, with a maximum of 7 and a minimum of 0.
+- Most shipments were delivered within 3 to 5 days, indicating operational consistency.
+- Monthly average lead times showed minimal variation, ranging from approximately 3.7 to 4.2 days.
+- Geographic patterns revealed that some central states experienced slightly longer average lead times.
+- The average revenue per order was approximately $458, reflecting strong order value.
 Key findings will be summarized here after dashboard completion — focusing on trends, outliers, and strategic recommendations.
 
 ---
