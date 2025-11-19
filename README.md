@@ -74,7 +74,7 @@ Defined key metrics for business monitoring:
 
 ## Dashboard Preview 
 
-![Executive Summary Dashboard](dashboard_previews/page1_Executive_Overview.png)
+![Executive Summary Dashboard](powerbi/visuals/page1_Executive_Overview.png)
 
 ---
 
