@@ -1,4 +1,4 @@
-aww# Superstore KPI Dashboard  
+# Superstore KPI Dashboard  
 **Data Analytics | SQL | Power BI | Data Visualization**
 
 ---
