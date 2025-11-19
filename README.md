@@ -72,8 +72,9 @@ Defined key metrics for business monitoring:
 
 ---
 
-## Dashboard Preview *(to be added)*  
+## Dashboard Preview 
 
+![Executive Summary Dashboard](dashboard_previews/page1_Executive_Overview.png)
 
 ---
 
