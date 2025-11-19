@@ -75,7 +75,7 @@ Defined key metrics for business monitoring:
 ## Dashboard Preview 
 ![Executive Summary Dashboard](powerbi/visuals/page1_Executive_Overview.png)
 
-▶ **View Full Interactive Dashboard (.pbix)**  
+▶ **View and Download Full Interactive Dashboard (.pbix)**  
 [superstore_dashboard.pbix](powerbi/pbix/Superstore_KPI_Report.pbix)
 
 ---
