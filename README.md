@@ -111,7 +111,7 @@ Defined key metrics for business monitoring:
 - The Consumer segment represented the majority of both sales volume and profitability.
 
 ### Price, Discount, and Unit Analysis
-- The average discount across all orders was 15.63 percent.
+- The average discount across all orders was 15.63%.
 - High-discount subcategories frequently produced negative profit, especially Tables and Bookcases.
 - High-priced categories, such as Technology, delivered strong profit despite lower unit volume.
 - The bubble chart highlighted negative-profit outliers driven largely by elevated discount rates.
