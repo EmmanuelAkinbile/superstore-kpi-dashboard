@@ -153,7 +153,7 @@ superstore-kpi-dashboard/
 │ └── summary_kpis.sql
 │
 ├── powerbi/ # Power BI files and visuals
-│ ├── superstore_dashboard.pbix
+│ ├── Superstore_KPI_Report.pbix
 │ └── visuals/
 │
 ├── docs/ # Additional documentation
