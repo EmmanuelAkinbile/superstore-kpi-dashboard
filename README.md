@@ -28,6 +28,14 @@ They need an analytics solution that can answer:
 
 ---
 
+## Dashboard Preview 
+![Executive Summary Dashboard](powerbi/visuals/page1_Executive_Overview.png)
+
+▶ **View and Download Full Interactive Dashboard (.pbix)**  
+[superstore_dashboard.pbix](powerbi/pbix/Superstore_KPI_Report.pbix)
+
+---
+
 ## Dataset  
 
 **Source:** [Kaggle – Superstore Dataset (Vivek468)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
@@ -70,13 +78,6 @@ Defined key metrics for business monitoring:
 - Designed interactive visuals (cards, trend lines, category breakdowns, region maps)  
 - Created a unified dashboard summarizing KPIs and trends  
 
----
-
-## Dashboard Preview 
-![Executive Summary Dashboard](powerbi/visuals/page1_Executive_Overview.png)
-
-▶ **View and Download Full Interactive Dashboard (.pbix)**  
-[superstore_dashboard.pbix](powerbi/pbix/Superstore_KPI_Report.pbix)
 
 ---
 
@@ -123,7 +124,16 @@ Defined key metrics for business monitoring:
 - Monthly average lead times showed minimal variation, ranging from approximately 3.7 to 4.2 days.
 - Geographic patterns revealed that some central states experienced slightly longer average lead times.
 - The average revenue per order was approximately $458, reflecting strong order value.
-Key findings will be summarized here after dashboard completion — focusing on trends, outliers, and strategic recommendations.
+
+## Conclusion & Recommendations
+
+The analysis demonstrates that revenue growth was steady across the four-year period, driven primarily by the Consumer segment and the Technology category. Profitability, however, varied significantly across subcategories, with several segments showing persistent negative margins.
+
+### Recommendations
+- Reevaluate pricing and discount strategies for negative-profit subcategories such as Tables and Bookcases.
+- Prioritize inventory and marketing investments in high-performing product paths (e.g., Consumer > Technology > Phones).
+- Explore targeted retention campaigns for high-value customers in the West and East regions.
+- Investigate operational factors contributing to slightly longer shipping times in certain central states.
 
 ---
 
